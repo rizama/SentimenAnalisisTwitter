@@ -1,4 +1,4 @@
-# Sentimen Analisis Twitter
+# Sentiment Analysis Twitter
 This Project let you Search the topic of Tweet in Twitter and the program will Analizing the tweet. Result of this project will showing How much number of Positive, Neutral, and Negative Tweet of the topic
 
 Dependencies
